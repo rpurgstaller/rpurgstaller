@@ -1,4 +1,4 @@
-Hi, my name is roman. These days I live in Graz and work as a Cloud Architect. 
+Hi, my name is roman. I live in Graz and work as a Cloud Architect. 
 
 I really enjoy working with python, java, sql, neo4j and web technologies. 
 
